@@ -3,5 +3,5 @@ const app = express();
 
 const port = 5000;
 app.listen(port, () => {
-  console.log('server run on', port);
+  console.log('server running', port);
 });
